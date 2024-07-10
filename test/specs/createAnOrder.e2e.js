@@ -90,7 +90,7 @@ describe('Create an order', () => {
         const orderButton = await $(page.orderButton); 
         await orderButton.click(); 
         const carSearchModal = await $(page.carSearchModal); 
-        expect(carSearchModal).toBeExisting(); 
+        await expect(carSearchModal).toBeExisting(); 
 
     }) 
 

@@ -25,13 +25,13 @@ module.exports = {
     
     // Modals
     phoneNumberModal: '.modal',
-    paymentMethodModal: '[class="pp-value-text"]',
+    //paymentMethodModal: '[class="pp-value-text"]',
     carSearchModal: '.order-body', 
     
 
-    // Other elements
     cardRow: '#card-1', //element for checking if card was added
     iceCreamCount: '.counter-value',
+
     // Functions
     fillAddresses: async function(from, to) {
         const fromField = await $(this.fromField);
@@ -117,7 +117,7 @@ module.exports = {
         await addIceCreamButton.scrollIntoView(); 
         await addIceCreamButton.waitForDisplayed(); 
         await addIceCreamButton.click(); 
-        await browser.pause(500); 
+        //await browser.pause(500); 
         await addIceCreamButton.click(); 
 
     }, 
