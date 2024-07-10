@@ -21,5 +21,8 @@
   "directories": {
     "test": "test"
   },
-  "description": "1. Verify your wdio.conf.js and update the base URL"
+  "description": "1. Verify your wdio.conf.js and update the base URL",
+  "dependencies": {
+    "wdio-intercept-service": "^4.4.1"
+  }
 }
