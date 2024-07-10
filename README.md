@@ -15,4 +15,4 @@ Used automated testing with JavaScript, Node.js, and WebdriverIO
 3a. Make sure all the versions are compatible with the server
 4. Configure WebdriverIO
 5. Start the WebdriverIO server
-6. Run the tests using npx wdio run wdio conf.js
+6. Run the tests using npm run wdio
