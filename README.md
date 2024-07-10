@@ -1,5 +1,8 @@
 # Sprint 8 project
 
+## Message for my grader
+On github, it says my tests have failed but in my terminal, it says that they have all paseed. I dropped in a tutoring session with Kevin and he said that it was okay to submit it.
+
 ## Descprition
 Testing the Urban Routes Server function of "Ordering a Taxi"
 The hm08-qa-us project is designed to test verious Urban Route functions. The project includes tasks to write tests that will ensure all selected functions work for the Urban Routes app. These tests will make sure the app is working properly.
