@@ -19,3 +19,9 @@ Used automated testing with JavaScript, Node.js, and WebdriverIO
 4. Configure WebdriverIO
 5. Start the WebdriverIO server
 6. Run the tests using npm run wdio
+
+7. Updated Sep 30 2024
+8. Reran Oct 25 2025
+9. Checked Project Nov 12 2024
+10. Compared project to another Dec 12 2024
+11. Did another project and checked similarities Jan 15 2024
